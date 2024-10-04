@@ -1,0 +1,17 @@
+prerequisites:
+
+Docker installed on your local machine.
+
+A Dockerfile defining the Flask application's environment and dependencies.
+
+The Docker image built from the Dockerfile.
+
+Building the Image:
+
+Open a terminal or command prompt in the project directory.
+
+Run the following command to build the Docker image:
+
+Bash
+
+docker build -t my-assessment  . 
